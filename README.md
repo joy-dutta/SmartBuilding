@@ -1,1 +1,3 @@
 # SmartBuilding
+
+The term "smart building" refers to a building that makes optimal use of its resources in a cost-effective manner, all while ensuring the safety and comfort of its residents. In addition to incorporating a variety of current technology, smart buildings are built or modified in a manner that makes it easy to include any future innovations. Sensors connected to the Internet of Things (IoT), building management systems, artificial intelligence (AI), and augmented reality (AR) are some of the technologies that might be used to regulate and enhance the efficiency of a smart building.
