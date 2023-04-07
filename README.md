@@ -12,10 +12,10 @@ Hence, this dataset has 1000000 instances with eight training features and one t
 
 
 ### References for the Dataset
-#### 1. J. Dutta, S. Roy, “OccupancySense: Context-Based Indoor Occupancy Detection & Prediction using CatBoost Model”, Applied Soft Computing (2022), Elsevier, DOI: [https://doi.org/10.1016/j.asoc.2022.108536](https://doi.org/10.1016/j.asoc.2022.108536)
+#### 1. J. Dutta, S. Roy, “OccupancySense: Context-Based Indoor Occupancy Detection & Prediction using CatBoost Model”, Applied Soft Computing, Elsevier, 2022, DOI: [https://doi.org/10.1016/j.asoc.2022.108536](https://doi.org/10.1016/j.asoc.2022.108536)
 
-#### 2. J. Dutta, S. Roy, “IndoorSense: Context Based Indoor Pollutant Prediction using SARIMAX Model", Multimedia Tools and Applications (2021), Springer, Electronic ISSN: 1573-7721, Print ISSN: 1380-7501, DOI: [https://doi.org/10.1007/s11042-021-10666-w](https://doi.org/10.1007/s11042-021-10666-w)
+#### 2. J. Dutta, S. Roy, “IndoorSense: Context Based Indoor Pollutant Prediction using SARIMAX Model", Multimedia Tools and Applications, Springer, Electronic ISSN: 1573-7721, Print ISSN: 1380-7501, 2021, DOI: [https://doi.org/10.1007/s11042-021-10666-w](https://doi.org/10.1007/s11042-021-10666-w)
 
-#### 3. J. Dutta, S. Roy, “IoT-fog-cloud Based Architecture For Smart City: Prototype Of A Smart Building”, Proceedings of the 7th International Conference on Cloud Computing, Data Science & Engineering, CONFLUENCE 2017, Noida, Uttar Pradesh, India (IEEE), DOI: [https://doi.org/10.1109/CONFLUENCE.2017.7943156](https://doi.org/10.1109/CONFLUENCE.2017.7943156)
+#### 3. J. Dutta, S. Roy, “IoT-fog-cloud Based Architecture For Smart City: Prototype Of A Smart Building”, Proceedings of the 7th International Conference on Cloud Computing, Data Science & Engineering, CONFLUENCE 2017, Noida, Uttar Pradesh, India (IEEE), 2017, DOI: [https://doi.org/10.1109/CONFLUENCE.2017.7943156](https://doi.org/10.1109/CONFLUENCE.2017.7943156)
 
 #### 4. J. Dutta, D. Puthal and E. Damiani, "AI-based Block Identification and Classification in the Blockchain Integrated IoT," 2022 OITS International Conference on Information Technology (OCIT), Bhubaneswar, India, 2022, pp. 415-421, DOI: [10.1109/OCIT56763.2022.00084](https://ieeexplore.ieee.org/document/10053810)
