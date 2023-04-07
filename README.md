@@ -11,8 +11,7 @@ You can use this dataset to test your multiclass-classification (0, 1, and 2) ma
 ### References for the Dataset
 #### 1. J. Dutta, S. Roy, “OccupancySense: Context-Based Indoor Occupancy Detection & Prediction using CatBoost Model”, Applied Soft Computing (2022), Elsevier, DOI: [https://doi.org/10.1016/j.asoc.2022.108536](https://doi.org/10.1016/j.asoc.2022.108536)
 
-#### 2. J. Dutta, S. Roy, “IndoorSense: Context Based Indoor Pollutant Prediction using SARIMAX Model, 
-Multimedia Tools and Applications (2021), Springer (SCI-E, SCOPUS, DBLP etc. indexed), Electronic ISSN: 1573-7721, Print ISSN: 1380-7501, DOI: [https://doi.org/10.1007/s11042-021-10666-w](https://doi.org/10.1007/s11042-021-10666-w)
+#### 2. J. Dutta, S. Roy, “IndoorSense: Context Based Indoor Pollutant Prediction using SARIMAX Model", Multimedia Tools and Applications (2021), Springer, Electronic ISSN: 1573-7721, Print ISSN: 1380-7501, DOI: [https://doi.org/10.1007/s11042-021-10666-w](https://doi.org/10.1007/s11042-021-10666-w)
 
 #### 3. J. Dutta, S. Roy, “IoT-fog-cloud Based Architecture For Smart City: Prototype Of A Smart Building”, Proceedings of the 7th International Conference on Cloud Computing, Data Science & Engineering, CONFLUENCE 2017, Noida, Uttar Pradesh, India (IEEE), DOI: [https://doi.org/10.1109/CONFLUENCE.2017.7943156](https://doi.org/10.1109/CONFLUENCE.2017.7943156)
 
